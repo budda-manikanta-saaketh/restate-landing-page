@@ -1,9 +1,8 @@
 import React from "react";
 
 const stats = [
-  { value: "500+", label: "Active Users" },
-  { value: "200+", label: "Equipment Listed" },
-  { value: "1000+", label: "Bookings" },
+  { value: "100+", label: "Active Users" },
+  { value: "70+", label: "Equipment Listed" },
   { value: "50+", label: "Cities" },
 ];
 
