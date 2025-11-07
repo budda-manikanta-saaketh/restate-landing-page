@@ -35,8 +35,8 @@ const FeaturesSection: React.FC = () => (
           Why Choose <span className="text-amber-500">Restate?</span>
         </h2>
         <p className="text-xl text-gray-700 max-w-2xl mx-auto">
-          The smart way to manage construction resources — modern, efficient,
-          and connected.
+          The smart way to manage construction resources modern, efficient, and
+          connected.
         </p>
       </div>
 

@@ -64,7 +64,7 @@ const HowItWorksSection = () => (
           How It Works
         </h2>
         <p className="text-xl text-gray-700">
-          Simple, direct, and transparent — built for the construction community
+          Simple, direct, and transparent built for the construction community
         </p>
       </div>
 
