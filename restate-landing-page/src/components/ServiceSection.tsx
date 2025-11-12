@@ -35,7 +35,7 @@ const ServicesSection: React.FC = () => (
             </h3>
             <p className="text-gray-300 mt-4 mb-8 text-center leading-relaxed">
               Access a wide range of construction equipment including
-              excavators, cranes, loaders, and more — all maintained to the
+              excavators, cranes, loaders, and more all maintained to the
               highest standards.
             </p>
             <ul className="space-y-3 text-gray-200">
@@ -68,7 +68,7 @@ const ServicesSection: React.FC = () => (
             </h3>
             <p className="text-gray-300 mt-4 mb-8 text-center leading-relaxed">
               Premium-quality construction materials delivered directly to your
-              site. From cement to steel — we ensure timely, reliable, and
+              site. From cement to steel we ensure timely, reliable, and
               efficient service.
             </p>
             <ul className="space-y-3 text-gray-200">

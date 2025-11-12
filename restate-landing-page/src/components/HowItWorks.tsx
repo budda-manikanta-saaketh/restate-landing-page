@@ -18,12 +18,12 @@ const steps = [
   {
     num: 2,
     title: "Collaborate Seamlessly",
-    desc: "Book directly with providers. Track deliveries or work progress in real-time — all within the app.",
+    desc: "Book directly with providers. Track deliveries or work progress in real-time all within the app.",
   },
   {
     num: 3,
     title: "Pay Directly",
-    desc: "Once work is done, pay the provider directly. No commissions, no hidden fees — just fair deals.",
+    desc: "Once work is done, pay the provider directly. No commissions, no hidden fees just fair deals.",
   },
 ];
 
@@ -88,7 +88,7 @@ const HowItWorksSection = () => (
         <div className="flex justify-center">
           <div className="relative w-[280px] h-[560px] bg-black rounded-[40px] shadow-2xl border-[10px] border-gray-900 overflow-hidden animate-float">
             <img
-              src="https://cdn.dribbble.com/users/1187278/screenshots/16742855/media/4f8b6cb828bff2bff3bdfb5ff5f745b7.png?resize=400x0"
+              src="/Home.jpg"
               alt="App preview"
               className="w-full h-full object-cover"
             />

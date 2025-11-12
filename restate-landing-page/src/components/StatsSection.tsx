@@ -2,8 +2,8 @@ import React from "react";
 
 const stats = [
   { value: "100+", label: "Active Users" },
-  { value: "70+", label: "Equipment Listed" },
-  { value: "50+", label: "Cities" },
+  { value: "50+", label: "Equipment Listed" },
+  { value: "10+", label: "Cities" },
 ];
 
 const StatsSection: React.FC = () => (
